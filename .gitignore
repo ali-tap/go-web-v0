@@ -1,0 +1,14 @@
+/package-lock.json
+/package.json
+/README.md
+/node_modules
+/src/App.css
+/src/index.css
+/src/logo.svg
+/src/registerServiceWorker.js
+/src/App.js
+/src/App.test.js
+/src/index.js
+/src/ModalDialogComponent
+/public
+/.idea
