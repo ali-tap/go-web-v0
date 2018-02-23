@@ -2,77 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d562314b-f55b-450d-8229-41a65e7be8e5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/BodySection/MainMenu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/BodySection/MainMenuItem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/BodySection/MenuBody.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/BodySection/SetsItem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/BodySection/Settings.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/BodySection/SubItemGroup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/BodySection/SubMenuItem.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/HeaderSection/MenuHeader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/MenuComponent.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/css/fonts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/css/media_queries.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Circe/Circe.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Circe/CirceBold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Circe/CirceExtraBold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Circe/CirceExtraLight.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Circe/CirceLight.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Circe/CirceThin.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaLight/HelveticaLight.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaLight/HelveticaLight.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaLight/HelveticaLight.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaNeue-Light.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaNeue-Light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaNeue-Medium.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaNeue-Thin.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaNeue.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaRegular/HelveticaRegular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaRegular/HelveticaRegular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaRegular/HelveticaRegular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/helvetica_neue-ultra_light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/helvetica_neue_it.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/helvetica_neue_lt.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/neue-helvetica-arabic-45-light-arabic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/neue-helvetica-arabic-55-roman-arabic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/neue-helvetica-arabic-75-bold-arabic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/helveticaLight.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/helveticaRegular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Apache License.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-Black.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-BlackItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-BoldItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-Italic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-Light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-LightItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-Medium.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-MediumItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-Thin.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-ThinItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/RobotoCondensed-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/RobotoCondensed-BoldItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/RobotoCondensed-Italic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/RobotoCondensed-Light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/RobotoCondensed-LightItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/RobotoCondensed-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/js/loading-bar/loading-bar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/js/loading-bar/loading-bar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/js/loading-bar/loading-bar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/arrow.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/billIcon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/draftIcon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/gear.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/goCollect.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/goPos.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/goSell.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/logoutIcon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/payIcon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/repeateIcon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/schedIcon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/stateIcon.svg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -85,7 +15,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -103,6 +44,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -130,6 +74,11 @@
             <path>
               <item name="goWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="goWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,17 +125,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519381232943</updated>
-      <workItem from="1519381234468" duration="2684000" />
+      <workItem from="1519381234468" duration="3099000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2684000" />
+    <option name="totallyTimeSpent" value="3099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2048" height="1049" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -224,18 +174,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/readMe.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
