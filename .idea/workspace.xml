@@ -1,7 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d562314b-f55b-450d-8229-41a65e7be8e5" name="Default" comment="" />
+    <list default="true" id="d562314b-f55b-450d-8229-41a65e7be8e5" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/BodySection/MainMenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/BodySection/MainMenuItem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/BodySection/MenuBody.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/BodySection/SetsItem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/BodySection/Settings.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/BodySection/SubItemGroup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/BodySection/SubMenuItem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/HeaderSection/MenuHeader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/MenuComponent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/css/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/css/media_queries.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Circe/Circe.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Circe/CirceBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Circe/CirceExtraBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Circe/CirceExtraLight.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Circe/CirceLight.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Circe/CirceThin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaLight/HelveticaLight.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaLight/HelveticaLight.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaLight/HelveticaLight.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaNeue-Light.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaNeue-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaNeue-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaNeue-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaNeue.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaRegular/HelveticaRegular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaRegular/HelveticaRegular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/HelveticaRegular/HelveticaRegular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/helvetica_neue-ultra_light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/helvetica_neue_it.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/helvetica_neue_lt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/neue-helvetica-arabic-45-light-arabic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/neue-helvetica-arabic-55-roman-arabic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/Helvetica/neue-helvetica-arabic-75-bold-arabic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/helveticaLight.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/helveticaRegular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Apache License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-Black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-BlackItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-BoldItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-Italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-LightItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-MediumItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/Roboto-ThinItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/RobotoCondensed-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/RobotoCondensed-BoldItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/RobotoCondensed-Italic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/RobotoCondensed-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/RobotoCondensed-LightItalic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/fonts/roboto/RobotoCondensed-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/js/loading-bar/loading-bar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/js/loading-bar/loading-bar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/js/loading-bar/loading-bar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/arrow.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/billIcon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/draftIcon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/gear.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/goCollect.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/goPos.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/goSell.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/logoutIcon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/payIcon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/repeateIcon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/schedIcon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/MenuComponent/styles/svg/stateIcon.svg" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -59,17 +131,6 @@
               <item name="goWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="goWeb" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="goWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="goWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="goWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="goWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MenuComponent" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -115,12 +176,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519381232943</updated>
-      <workItem from="1519381234468" duration="2595000" />
+      <workItem from="1519381234468" duration="2684000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2595000" />
+    <option name="totallyTimeSpent" value="2684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2048" height="1049" extended-state="0" />
