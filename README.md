@@ -67,12 +67,7 @@ These elements will also be replaced with original ones.
                 var el = this.innerCont;
                 el.classList.contains('hide') ? el.classList.remove('hide') : el.classList.add('hide');
             }
-    ```
 
-
-
-
-    ```
     <button className={'menu_btn'} onClick={this.animateMenu.bind(this)}>
                           <span></span>
                           <span></span>
@@ -96,7 +91,7 @@ Modal dialog window appears by clicking on percentage area.
 #### Products section
 
 Displays all available product to user. One of the available options is opened as default.
-Opened option`s appearance contains it`s title and list of sub-items, which are also clickable.
+Opened options appearance contains its title and list of sub-items, which are also clickable.
 By clicking on title user turns to the main menu (where there are all products displayed).
 
 
