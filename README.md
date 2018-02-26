@@ -61,19 +61,19 @@ export default App;
 `animateMenu function` and `div.content` are also permanent elements. We use them to show how menu should be animated in general.
 These elements will also be replaced with original ones.
 
-    ```
-    animateMenu(e){
-                e.preventDefault();
-                var el = this.innerCont;
-                el.classList.contains('hide') ? el.classList.remove('hide') : el.classList.add('hide');
-            }
+```
+animateMenu(e){
+            e.preventDefault();
+            var el = this.innerCont;
+            el.classList.contains('hide') ? el.classList.remove('hide') : el.classList.add('hide');
+        }
 
-    <button className={'menu_btn'} onClick={this.animateMenu.bind(this)}>
-                          <span></span>
-                          <span></span>
-                          <span></span>
-    </button>
-    ```
+<button className={'menu_btn'} onClick={this.animateMenu.bind(this)}>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+</button>
+```
 
 
 
