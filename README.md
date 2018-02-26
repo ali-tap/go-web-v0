@@ -58,7 +58,7 @@ export default App;
 
 ## Details
 
-`animateMenu function` and `div.content` are also permanent elements. We use it show how menu should be animated in general.
+`animateMenu function` and `div.content` are also permanent elements. We use them to show how menu should be animated in general.
 These elements will also be replaced with original ones.
 
     ```
@@ -68,6 +68,9 @@ These elements will also be replaced with original ones.
                 el.classList.contains('hide') ? el.classList.remove('hide') : el.classList.add('hide');
             }
     ```
+
+
+
 
     ```
     <button className={'menu_btn'} onClick={this.animateMenu.bind(this)}>
@@ -80,6 +83,27 @@ These elements will also be replaced with original ones.
 
 
 ## Description
+
+Main goWeb menu contains three sections: header section, products sections and general options section.
+
+#### Header section
+Header section includes personal information. 'Avatar' icon, 'gear' icon and percentage area are clickable.
+Text filed displays name of current user account (it can be multiple). Percentage value indicates what part of personal
+information has been completed. Percentage line and text turns red if required personal information has not been filled.
+Modal dialog window appears by clicking on percentage area.
+
+
+#### Products section
+
+Displays all available product to user. One of the available options is opened as default.
+Opened option`s appearance contains it`s title and list of sub-items, which are also clickable.
+By clicking on title user turns to the main menu (where there are all products displayed).
+
+
+#### General options section
+General options have the same appearance for all users.
+Modal dialog window appears by clicking on `Logout` option.
+
 
 
 
