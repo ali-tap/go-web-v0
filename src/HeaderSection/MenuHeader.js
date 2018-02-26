@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import GearIcon from '../styles/svg/gear.svg';
 import Arrow from '../styles/svg/arrow.svg';
-import InfoModal from '../../ModalDialogComponent/InfoModal';
+import InfoModal from '../ModalDialogComponent/InfoModal';
 
 
 class MenuHeader extends Component {
