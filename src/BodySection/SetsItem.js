@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import AskModal from '../ModalDialogComponent/AskModal';
+//import AskModal from '../ModalDialogComponent/AskModal';
 
 class SetsItem extends Component{
 
@@ -34,7 +34,7 @@ class SetsItem extends Component{
                 </span>
 
 
-                <AskModal
+              /*  <AskModal
                     openModal={this.state.isOpen}
                     closeModal={this.modalDialog.bind(this)}
                     acceptBtnTxt={'Log out'}
@@ -42,7 +42,7 @@ class SetsItem extends Component{
                     acceptBtnResp={'User really want to log out'}
                     refuseBtnResp={'User stays here'}>
                         Do you want to log out?
-                </AskModal>
+                </AskModal>*/
 
             </div>
         );
@@ -51,4 +51,3 @@ class SetsItem extends Component{
 }
 
 export default SetsItem;
-
