@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-//import AskModal from '../ModalDialogComponent/AskModal';
 
 class SetsItem extends Component{
 
@@ -32,17 +31,6 @@ class SetsItem extends Component{
                         {itemData.constItemDesc ? <span className={'sets_desc'}>{ itemData.constItemDesc }</span> : null}
                     </span>
                 </span>
-
-
-              /*  <AskModal
-                    openModal={this.state.isOpen}
-                    closeModal={this.modalDialog.bind(this)}
-                    acceptBtnTxt={'Log out'}
-                    refuseBtnTxt={'Cancel'}
-                    acceptBtnResp={'User really want to log out'}
-                    refuseBtnResp={'User stays here'}>
-                        Do you want to log out?
-                </AskModal>*/
 
             </div>
         );
