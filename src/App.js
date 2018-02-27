@@ -1,21 +1,21 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './styles/css/style.css';
+import MenuHeader from './HeaderSection/MenuHeader';
+import MenuBody from './BodySection/MenuBody';
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-      </div>
-    );
-  }
+class MenuComponent extends Component {
+
+    render() {
+
+        return (
+            <div className={'app_wrapper'} ref={this.props.innerContRef} >
+                <div className="menu_component" >
+                    <MenuHeader {...this.props} />
+                    <MenuBody {...this.props} />
+                </div>
+            </div>
+        );
+    }
 }
 
-export default App;
+export default MenuComponent;
