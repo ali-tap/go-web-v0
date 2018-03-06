@@ -111,7 +111,7 @@ body{
     display: flex;
     width: 100%;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: space-between;
 }
 
 .next_btn, .detail_btn{
@@ -129,7 +129,7 @@ body{
 }
 
 
-span.percent_val{
+.percent_val{
     margin-left: 65px;
 }
 
@@ -158,9 +158,14 @@ span.percent_val{
     cursor: pointer;
 }
 
+.header_right_part_info{
+    display: flex;
+    align-items: center;
+}
 
-
-
+.user_name{
+    margin-left: 30px;
+}
 
 
 /* MENU_BODY STYLES */
@@ -171,7 +176,7 @@ span.percent_val{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    overflow: hidden;
+    overflow: scroll;
 }
 
 .app_wrapper{
@@ -415,9 +420,52 @@ span.percent_val{
 
 @media(max-width: 480px){
     .app_wrapper{
-        width: 90%;
+        width: 80%;
     }
     .menu_component{
         width: 100%;
     }
+    .text_line{
+        justify-content: space-between;
+    }
+    .user_name{
+        margin-left: 0px;
+        text-transform: capitalize;
+    }
+    .app_logo_wrapper{
+        width: 60px;
+    }
+    .sub_item_wrapper{
+        width: 30px;
+    }
+    .menu_header_wrapper{
+        flex-direction: row;
+    }
+    .img_icon{
+        width: 42px;
+        height: 42px;
+        border-width: 1px;
+    }
+    .gear_icon{
+        display: none;
+    }
+    .img_block_wrapper{
+        margin-top: 0px;
+    }
+    .percent_val{
+        margin-left: 0px;
+    }
+    .img_block{
+        width: auto;
+        height: auto;
+        margin-left: 20px;
+        margin-right: 15px;
+    }
+    .menu_header{
+        height: 80px;
+    }
+    .user_name_text{
+        display: none;
+    }
+
 }

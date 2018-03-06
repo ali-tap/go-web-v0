@@ -1,5 +1,14 @@
 @media(max-width: 480px){
+    .app_wrapper{
+        width: 90%;
+    }
     .menu_component{
-        width: 90% !important;
+        width: 100%;
+    }
+    .text_line{
+        justify-content: space-around;
+    }
+    .user_name{
+        margin-left: 20px;
     }
 }

@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import AskModal from '../ModalDialogComponent/AskModal';
+// import AskModal from '../ModalDialogComponent/AskModal';
+import AskModal from 'ask-modal-react';
 
 class SetsItem extends Component{
 
@@ -9,6 +10,7 @@ class SetsItem extends Component{
         this.state = {
             isOpen: false
         };
+
     }
 
     modalDialog(response){
@@ -25,7 +27,7 @@ class SetsItem extends Component{
 
         return(
             <div className={'sets_item_wrapper'}>
-                <span className={'sets_item'} onClick={this.modalDialog.bind(this)} >
+                <span className={'sets_item'} onClick={this.openModal} >
                     <span className={'sets_icon'}><img src={itemData.constItemIcon} alt={'Item icon'}/></span>
                     <span className={'sets_text'}>
                         <span className={'sets_title'}>{itemData.constItemTitle}</span>
@@ -33,16 +35,15 @@ class SetsItem extends Component{
                     </span>
                 </span>
 
-
-                <AskModal
-                    openModal={this.state.isOpen}
-                    closeModal={this.modalDialog.bind(this)}
-                    acceptBtnTxt={'Log out'}
-                    refuseBtnTxt={'Cancel'}
-                    acceptBtnResp={'User really want to log out'}
-                    refuseBtnResp={'User stays here'}>
-                        Do you want to log out?
-                </AskModal>
+                {/*<AskModal*/}
+                    {/*openModal={this.state.isOpen}*/}
+                    {/*closeModal={this.modalDialog.bind(this)}*/}
+                    {/*acceptBtnTxt={'Log out'}*/}
+                    {/*refuseBtnTxt={'Cancel'}*/}
+                    {/*acceptBtnResp={'User really want to log out'}*/}
+                    {/*refuseBtnResp={'User stays here'}>*/}
+                        {/*Do you want to log out?*/}
+                {/*</AskModal>*/}
 
             </div>
         );

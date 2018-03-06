@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import GearIcon from '../styles/svg/gear.svg';
 import Arrow from '../styles/svg/arrow.svg';
-import InfoModal from '../ModalDialogComponent/InfoModal';
+// import InfoModal from '../ModalDialogComponent/InfoModal';
+
 
 
 class MenuHeader extends Component {
@@ -59,11 +60,13 @@ class MenuHeader extends Component {
 
                             <div className={'text_block'} onClick={this.modalDialog.bind(this)} >
                                 <div className={'text_line'}>
-                                    <span className={'user_name'} >Username of account no. 1</span>
-                                    <span className={'percent_val'} style={{color: fillInfoColor}}>{this.props.headerInfo.fillPercent}</span>
+                                    <span className={'user_name'} > <span className={'user_name_text'}>Username of</span> account no. 1</span>
+                                    <span className={'header_right_part_info'}>
+                                        <span className={'percent_val'} style={{color: fillInfoColor}}>{this.props.headerInfo.fillPercent}</span>
                                     <button className={'next_btn'} onClick={this.nextBtnOnClick.bind(this)} >
                                         <img src={Arrow} alt={'Arrow'}/>
                                     </button>
+                                    </span>
                                 </div>
                             </div>
 
@@ -72,12 +75,12 @@ class MenuHeader extends Component {
                         <div className={'filled_line'} style={{width: this.props.headerInfo.fillPercent, background: fillInfoColor}}></div>
                     </div>
 
-                <InfoModal
-                    openModal={this.state.isOpen}
-                    closeModal={this.modalDialog.bind(this)}
-                    okBtnTxt={'ok'}>
-                    This info for you
-                </InfoModal>
+                {/*<InfoModal*/}
+                    {/*openModal={this.state.isOpen}*/}
+                    {/*closeModal={this.modalDialog.bind(this)}*/}
+                    {/*okBtnTxt={'ok'}>*/}
+                    {/*This info for you*/}
+                {/*</InfoModal>*/}
 
             </div>
         );
