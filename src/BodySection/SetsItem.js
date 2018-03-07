@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 // import AskModal from '../ModalDialogComponent/AskModal';
-import AskModal from 'ask-modal-react';
+// import AskModal from 'ask-modal-react';
 
 class SetsItem extends Component{
 

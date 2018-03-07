@@ -17,7 +17,8 @@ class MainMenuItem extends Component {
     componentDidMount(){
 
         var subItems = [],
-            subItemsData = this.props.itemData.subItems;
+            subItemsData = this.props.itemData.subItems,
+            isReg = this.props.itemData.isReg;
 
         if (!this.props.itemId){
             this.refs.mainItem.classList.add('opened_item');
@@ -31,6 +32,7 @@ class MainMenuItem extends Component {
             subItems: subItems
         });
 
+        !isReg && this.enableBtn.classList.add('enable_flag');
     }
 
     onItemClick(e){
@@ -60,8 +62,8 @@ class MainMenuItem extends Component {
 
             mainItem.classList.remove(openedCl);
 
-            this.refs.subItemsDiv.style.height = '0px';
-            this.refs.subItemsDiv.style.opacity = 0;
+            // this.refs.subItemsDiv.style.height = '0px';
+            // this.refs.subItemsDiv.style.opacity = 0;
 
             this.setState({
                 subItems: []
@@ -74,25 +76,31 @@ class MainMenuItem extends Component {
                 subItems.push(<SubItemGroup subItemData={subItemsData[k]} key={k} />);
             }
 
-            this.refs.subItemsDiv.style.height = this.props.itemData.subItems.length * 49 +'px';
-            this.refs.subItemsDiv.style.opacity = 1;
+            // this.refs.subItemsDiv.style.height = this.props.itemData.subItems.length * 49 +'px';
+            // this.refs.subItemsDiv.style.opacity = 1;
 
             this.setState({
                 subItems: subItems
             });
 
             this.props.setActItem(this.props.itemId);
-
         }
 
     }
 
+    onEnableBtnClick(e){
+        e.preventDefault();
+
+        // write your code here
+    }
+
     render() {
 
-        var d = this.props.itemData;
+        var d = this.props.itemData,
+            isReg = this.props.itemData.isReg;
 
         return (
-            <div className={'main_item_wrapper'} ref={'mainItem'} onClick={this.onItemClick.bind(this)}>
+            <div className={'main_item_wrapper'} ref={'mainItem'} onClick={isReg ? this.onItemClick.bind(this) : undefined} >
                 <div className={'main_menu_item'} >
 
                     <div className={'info_side'}>
@@ -108,6 +116,7 @@ class MainMenuItem extends Component {
 
                     </div>
 
+                    <button className={'enable_btn'} ref={(enableBtn) => this.enableBtn = enableBtn} onClick={this.onEnableBtnClick.bind(this)}>Enable</button>
                     <button className={'detail_btn'} ref={'detailBtn'} ><img src={Arrow} alt={'Arrow'}/></button>
 
                 </div>

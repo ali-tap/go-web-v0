@@ -45,6 +45,26 @@ body{
     transition: .2s linear;
 }
 
+
+*{
+    user-focus: none;
+    user-select: none;
+    user-modify: none;
+    outline: none;
+}
+
+*:focus{
+    outline: none;
+}
+
+
+
+
+
+
+
+
+
 /* MENU_HEADER STYLES */
 
 .menu_header{
@@ -172,11 +192,12 @@ body{
 
 .menu_body{
     background: #474747;
-    flex: 1;
+    flex: 1 1;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    overflow: scroll;
+    overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 .app_wrapper{
@@ -193,7 +214,7 @@ body{
     align-items: center;
     justify-content: space-between;
     color: #F7F7F7;
-    padding: 0px 5px 0px 5px;
+    padding: 0px 10px 0px 10px;
 }
 
 .main_menu_item:hover{
@@ -227,6 +248,13 @@ body{
 
 .detail_btn{
     display: none;
+    width: 15px;
+    height: 15px;
+}
+
+.detail_btn img{
+    width: auto;
+    height: 100%;
 }
 
 .main_item_wrapper .detail_btn img{
@@ -236,7 +264,7 @@ body{
 
 .app_logo_wrapper{
     height: 34px;
-    width: 80px;
+    width: 70px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -267,6 +295,24 @@ body{
     display: none;
 }
 
+.enable_btn{
+    display: none;
+    margin-top: -10px;
+    background: transparent;
+    border: 1px solid gray;
+    border-radius:6px;
+    color: gray;
+    width: 55px;
+    justify-content: center;
+    margin-right: 5px
+}
+
+.enable_btn.enable_flag{
+    display: flex;
+}
+.enable_btn:hover{
+    cursor: pointer;
+}
 
 
 
@@ -305,11 +351,12 @@ body{
     height: 48px;
     display: flex;
     align-items: center;
-    margin: 0px 20px;
+    padding: 0px 20px;
     border-bottom: 1px solid #474747;
     color: #F7F7F7;
     font-family: HelveticaLight;
     font-size: 16px;
+    transition: .2s linear;
 }
 
 .sub_item:last-child{
@@ -329,6 +376,8 @@ body{
 
 .sub_item:hover{
     cursor: pointer;
+    background: #373636;
+    transition: .2s linear;
 }
 
 
@@ -344,6 +393,7 @@ body{
     flex-direction: column;
     color: #F7F7F7;
     margin-bottom: 15px;
+    height: 120px;
 }
 
 .sets_item{
