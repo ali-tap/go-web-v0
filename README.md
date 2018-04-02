@@ -1,4 +1,5 @@
 ## Add menu to your project
+##checking pull requests
 
  - Import Menu Component:
 ```
@@ -98,9 +99,3 @@ By clicking on title user turns to the main menu (where there are all products d
 #### General options section
 General options have the same appearance for all users.
 Modal dialog window appears by clicking on `Logout` option.
-
-
-
-
-
-
