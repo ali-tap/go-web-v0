@@ -1,7 +1,6 @@
 import React, { Component} from 'react';
 import Arrow from '../styles/svg/arrow.svg';
 import SubItemGroup from './SubItemGroup';
-import PropTypes from 'prop-types';
 
 
 class MainMenuItem extends Component {
@@ -117,7 +116,7 @@ class MainMenuItem extends Component {
                     </div>
 
                     <button className={'enable_btn'} ref={(enableBtn) => this.enableBtn = enableBtn} onClick={this.onEnableBtnClick.bind(this)}>Enable</button>
-                    <button className={'detail_btn'} ref={'detailBtn'} ><img src={Arrow} alt={'Arrow'}/></button>
+                    <button className={'detail_btn'} ><img src={Arrow} alt={'Arrow'} className={'detail_btn_icon'} /></button>
 
                 </div>
 

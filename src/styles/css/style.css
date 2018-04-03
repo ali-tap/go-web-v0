@@ -10,7 +10,7 @@ body{
 
 /* COMMON STYLES */
 
-.App{
+.go_web_menu{
     width: 100vw;
     height: 100vh;
     background: #e9e9e9;
@@ -136,12 +136,15 @@ body{
 
 .next_btn, .detail_btn{
     width: 35px;
+    height: 15px;
     background: transparent;
     border: none;
     color: #E4E0E1;
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 0px;
+    margin: 0px;
 }
 
 .next_btn:hover, .detail_btn:hover{
@@ -252,7 +255,7 @@ body{
     height: 15px;
 }
 
-.detail_btn img{
+.detail_btn img, .next_btn img{
     width: auto;
     height: 100%;
 }
@@ -402,6 +405,18 @@ body{
     display: flex;
     align-items: center;
 }
+
+.sets_item_wrapper{
+    transition: .2s linear;
+}
+
+.sets_item_wrapper:hover{
+    background: #373636;
+    transition: .2s linear;
+    cursor: pointer;
+}
+
+
 .sets_icon{
     width: 50px;
     display: flex ;
@@ -421,15 +436,6 @@ body{
 }
 
 
-/* SETS_ITEMS STYLES */
-
-
-.sets_item:hover{
-    cursor: pointer;
-}
-
-
-
 
 
 
@@ -442,7 +448,7 @@ body{
     height: 55px;
     background: #E12131;
     align-items: center ;
-    padding-left: 10px;
+    padding: 0px 10px;
 }
 
 .menu_btn{
@@ -518,4 +524,36 @@ body{
         display: none;
     }
 
+}
+
+
+
+/* RTL DIRECTION */
+
+.go_web_menu.rtl{
+    direction: rtl;
+}
+
+.go_web_menu.rtl .next_btn_icon{
+    transform: scale(-1, 1) !important;
+}
+
+.go_web_menu.rtl .user_name{
+    margin-left: 0px;
+    margin-right: 30px;
+}
+
+.go_web_menu.rtl .percent_val{
+    margin-left: 0px;
+    margin-right: 65px;
+}
+
+.go_web_menu.rtl .detail_btn_icon{
+    transform: scale(-1, 1);
+    transition: .2s linear;
+}
+
+.go_web_menu.rtl .main_item_wrapper.opened_item .detail_btn_icon{
+    transform: scale(-1, 1) rotate(90deg);
+    transition: .2s linear;
 }

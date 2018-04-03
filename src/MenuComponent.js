@@ -8,7 +8,7 @@ class MenuComponent extends Component {
     render() {
 
         return (
-            <div className={'app_wrapper'} ref={this.props.innerContRef} >
+            <div className={'app_wrapper hide'} ref={this.props.innerContRef} >
                 <div className="menu_component" >
                     <MenuHeader {...this.props} />
                     <MenuBody {...this.props} />
