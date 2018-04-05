@@ -1,16 +1,37 @@
 {
-  "name": "goweb",
+  "name": "menu-comp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-scripts": "1.1.1"
+    "@tap-payments/goweb-main-menu": "^1.0.0",
+    "@tap-payments/react-ask-md": "^1.0.10",
+    "@tap-payments/react-info-md": "^1.0.3",
+    "node-modules": "^1.0.1",
+    "npm": "^5.8.0",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "^1.1.4"
+  },
+  "peerDependencies": {
+    "react": "^16.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "- Import Menu Component: ``` import MenuComponent from './MenuComponent'; ```",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://nastya-che@github.com/Tap-Payments/goWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tap-Payments/goWeb/issues"
+  },
+  "homepage": "https://github.com/Tap-Payments/goWeb#readme"
 }
