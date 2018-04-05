@@ -247,4 +247,7 @@ export const AccountData = [
         ]
     }
 ];
+<<<<<<< HEAD
 
+=======
+>>>>>>> ee66f67b17085300eaa8ea4bb143d2823c5ce792
