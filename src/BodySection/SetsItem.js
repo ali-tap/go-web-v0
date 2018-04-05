@@ -48,4 +48,3 @@ class SetsItem extends Component{
 }
 
 export default SetsItem;
-
