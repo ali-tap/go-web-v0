@@ -117,7 +117,7 @@ export const DataController = {
                     }
                 ]
             ],
-            isReg: false
+            isReg: true
         }
     ],
     constItems: [
@@ -247,7 +247,36 @@ export const AccountData = [
         ]
     }
 ];
-<<<<<<< HEAD
 
-=======
->>>>>>> ee66f67b17085300eaa8ea4bb143d2823c5ce792
+export const WidgetsData = [
+    {
+        itemName: 'Bill',
+        showItem: false,
+        itemIcon: BillIcon
+    },
+    {
+        itemName: 'State',
+        showItem: false,
+        itemIcon: StateIcon
+    },
+    {
+        itemName: 'Schedule',
+        showItem: false,
+        itemIcon: LogoutIcon
+    },
+    {
+        itemName: 'Pay',
+        showItem: false,
+        itemIcon: PayIcon
+    },
+    {
+        itemName: 'Draft',
+        showItem: false,
+        itemIcon: DraftIcon
+    },
+    {
+        itemName: 'Repeat',
+        showItem: false,
+        itemIcon: RepeatIcon
+    }
+];

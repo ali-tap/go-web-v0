@@ -2,13 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d562314b-f55b-450d-8229-41a65e7be8e5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Helvetica/HelveticaLight/HelveticaLight.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Helvetica/HelveticaLight/HelveticaLight.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Helvetica/HelveticaNeue-Light.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Helvetica/HelveticaRegular/HelveticaRegular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Helvetica/HelveticaRegular/HelveticaRegular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/img/plus_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/AddServices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/DataController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/SortableItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/SortableList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/StaticWidget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/WidgetsComponent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Circe/Circe.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Circe/CirceBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Circe/CirceExtraBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Circe/CirceExtraLight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Circe/CirceLight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Circe/CirceThin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Helvetica/HelveticaLight/HelveticaLight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Helvetica/HelveticaNeue-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Helvetica/HelveticaNeue-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Helvetica/HelveticaNeue-Thin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Helvetica/HelveticaNeue.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Helvetica/HelveticaRegular/HelveticaRegular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Helvetica/helvetica_neue-ultra_light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Helvetica/helvetica_neue_it.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Helvetica/helvetica_neue_lt.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Helvetica/neue-helvetica-arabic-45-light-arabic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Helvetica/neue-helvetica-arabic-55-roman-arabic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Helvetica/neue-helvetica-arabic-75-bold-arabic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/helveticaLight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/helveticaRegular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/roboto/Apache License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/roboto/Roboto-Black.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/roboto/Roboto-BlackItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/roboto/Roboto-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/roboto/Roboto-BoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/roboto/Roboto-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/roboto/Roboto-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/roboto/Roboto-LightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/roboto/Roboto-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/roboto/Roboto-MediumItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/roboto/Roboto-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/roboto/Roboto-Thin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/roboto/Roboto-ThinItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/roboto/RobotoCondensed-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/roboto/RobotoCondensed-BoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/roboto/RobotoCondensed-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/roboto/RobotoCondensed-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/roboto/RobotoCondensed-LightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/roboto/RobotoCondensed-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/img/cross.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WidgetsComponent/styles/img/stack.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/css/generalStylesFile.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/.App.js.swp" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BodySection/MainMenuItem.js" afterPath="$PROJECT_DIR$/src/BodySection/MainMenuItem.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BodySection/SetsItem.js" afterPath="$PROJECT_DIR$/src/BodySection/SetsItem.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HeaderSection/MenuHeader.js" afterPath="$PROJECT_DIR$/src/HeaderSection/MenuHeader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MenuComponent.js" afterPath="$PROJECT_DIR$/src/MenuComponent.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DataController/DataController.js" afterPath="$PROJECT_DIR$/src/DataController/DataController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/css/media_queries.css" afterPath="$PROJECT_DIR$/src/styles/css/media_queries.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/css/rtl_styles.css" afterPath="$PROJECT_DIR$/src/styles/css/rtl_styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/css/style.css" afterPath="$PROJECT_DIR$/src/styles/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/svg/billIcon.svg" afterPath="$PROJECT_DIR$/src/styles/svg/billIcon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/svg/draftIcon.svg" afterPath="$PROJECT_DIR$/src/styles/svg/draftIcon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/svg/logoutIcon.svg" afterPath="$PROJECT_DIR$/src/styles/svg/logoutIcon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/svg/payIcon.svg" afterPath="$PROJECT_DIR$/src/styles/svg/payIcon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/svg/repeateIcon.svg" afterPath="$PROJECT_DIR$/src/styles/svg/repeateIcon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/svg/schedIcon.svg" afterPath="$PROJECT_DIR$/src/styles/svg/schedIcon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/styles/svg/stateIcon.svg" afterPath="$PROJECT_DIR$/src/styles/svg/stateIcon.svg" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,11 +86,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="24">
+              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -34,25 +98,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MenuComponent.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MenuComponent.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainMenuItem.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BodySection/MainMenuItem.js">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
-                <element signature="e#0#40#0" expanded="true" />
+                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -61,30 +113,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SetsItem.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BodySection/SetsItem.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MenuHeader.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HeaderSection/MenuHeader.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="52" lean-forward="false" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+            <state relative-caret-position="255">
+              <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -93,8 +123,18 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/styles/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6150">
-              <caret line="410" column="1" lean-forward="false" selection-start-line="410" selection-start-column="1" selection-end-line="410" selection-end-column="1" />
+            <state relative-caret-position="420">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataController/DataController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -105,43 +145,43 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>user_name</find>
-      <find>media</find>
-      <find>span.</find>
-      <find>main</find>
-      <find>app_logo_wrapper</find>
-      <find>enable_btn</find>
-      <find>detail</find>
-      <find>.menu_body</find>
-      <find>he</find>
-      <find>detail_btn</find>
-      <find>img</find>
-      <find>purple</find>
-      <find>#1FB6FF</find>
-      <find>blue</find>
-      <find>DataController</find>
-      <find>AccountData</find>
-      <find>sub_item</find>
-      <find>0px 0px 45px -7px #000;</find>
-      <find>background: rgba(0, 0, 0, 0.5);</find>
-      <find>background:</find>
-      <find>rgba(0, 0, 0, 0.5)</find>
-      <find>sub_ite</find>
-      <find>popup_wrapper</find>
-      <find>detailBtn</find>
-      <find>next_btn</find>
-      <find>tra</find>
-      <find>.content</find>
-      <find>sets_item_wrapper</find>
       <find>prop-ty</find>
       <find>PropTypes</find>
+      <find>rtl</find>
+      <find>.hidden_service</find>
+      <find>hidden_service</find>
+      <find>hidden_service_wrapper</find>
+      <find>.sets_items</find>
+      <find>remove_icon</find>
+      <find>close</find>
+      <find>plus_icon</find>
+      <find>.sortable_item, .static_widget</find>
+      <find>fill</find>
+      <find>edit</find>
+      <find>static_widget</find>
+      <find>sortable_item</find>
+      <find>float: left;</find>
+      <find>.widgets_component</find>
+      <find>.menu_line</find>
+      <find>.sortable_grid</find>
+      <find>widgets_component</find>
+      <find>min-height: 100vh;</find>
+      <find>.app_wrapper</find>
+      <find>.content</find>
+      <find>go_web_menu</find>
+      <find>app_wrapper</find>
+      <find>.conte</find>
+      <find>menu_line</find>
+      <find>widge</find>
+      <find>.modal_dialog</find>
+      <find>menu_component</find>
     </findStrings>
     <replaceStrings>
       <replace>./</replace>
@@ -160,18 +200,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MenuComponent/README.md" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/package-lock.json" />
-        <option value="$PROJECT_DIR$/node_modules/md-component/package.json" />
-        <option value="$PROJECT_DIR$/src/BodySection/SubItemGroup.js" />
-        <option value="$PROJECT_DIR$/node_modules/md-component/InfoModal.js" />
-        <option value="$PROJECT_DIR$/node_modules/md-component/AskModal.js" />
-        <option value="$PROJECT_DIR$/node_modules/md-component/MDAbstractClass.js" />
-        <option value="$PROJECT_DIR$/node_modules/text-comp/src/index.js" />
-        <option value="$PROJECT_DIR$/node_modules/testing/src/index.js" />
-        <option value="$PROJECT_DIR$/node_modules/md-component/src/InfoModal.js" />
         <option value="$PROJECT_DIR$/node_modules/md-component/src/AskModal.js" />
         <option value="$PROJECT_DIR$/node_modules/md-component/src/MDAbstractClass.js" />
         <option value="$PROJECT_DIR$/node_modules/md-component/test_comp.js" />
@@ -181,8 +209,6 @@
         <option value="$PROJECT_DIR$/node_modules/react-modal/lib/components/Modal.js" />
         <option value="$PROJECT_DIR$/node_modules/nche-react-test/build/index.js" />
         <option value="$PROJECT_DIR$/node_modules/ask-modal-react/src/MDAbstractClass.js" />
-        <option value="$PROJECT_DIR$/src/styles/css/media_queries.css" />
-        <option value="$PROJECT_DIR$/src/styles/svg/draftIcon.svg" />
         <option value="$PROJECT_DIR$/node_modules/nche-component-lib/build/index.js" />
         <option value="$PROJECT_DIR$/node_modules/nche-component-lib/build/styles/colors.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
@@ -192,15 +218,39 @@
         <option value="$PROJECT_DIR$/src/ModalDialog/AskModal.js" />
         <option value="$PROJECT_DIR$/node_modules/react-info-md/build/elements/style.css" />
         <option value="$PROJECT_DIR$/src/ModalDialog/style.css" />
-        <option value="$PROJECT_DIR$/src/styles/css/rtl_styles.css" />
-        <option value="$PROJECT_DIR$/src/styles/css/style.css" />
-        <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/DataController/DataController.js" />
         <option value="$PROJECT_DIR$/src/BodySection/SetsItem.js" />
         <option value="$PROJECT_DIR$/src/MenuComponent.js" />
         <option value="$PROJECT_DIR$/src/HeaderSection/MenuHeader.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/BodySection/MainMenuItem.js" />
+        <option value="$PROJECT_DIR$/src/styles/css/media_queries.css" />
+        <option value="$PROJECT_DIR$/src/styles/css/rtl_styles.css" />
+        <option value="$PROJECT_DIR$/src/styles/css/generalStylesFile.css" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/TestCopm.js" />
+        <option value="$PROJECT_DIR$/src/TestComp.js" />
+        <option value="$PROJECT_DIR$/src/goWebContext.js" />
+        <option value="$PROJECT_DIR$/src/TestComp2.js" />
+        <option value="$PROJECT_DIR$/src/styles/svg/draftIcon.svg" />
+        <option value="$PROJECT_DIR$/src/styles/svg/billIcon.svg" />
+        <option value="$PROJECT_DIR$/src/styles/svg/payIcon.svg" />
+        <option value="$PROJECT_DIR$/src/styles/svg/stateIcon.svg" />
+        <option value="$PROJECT_DIR$/src/styles/svg/repeateIcon.svg" />
+        <option value="$PROJECT_DIR$/src/styles/svg/schedIcon.svg" />
+        <option value="$PROJECT_DIR$/src/styles/svg/logoutIcon.svg" />
+        <option value="$PROJECT_DIR$/src/WidgetsComponent/styles/img/cross.svg" />
+        <option value="$PROJECT_DIR$/src/WidgetsComponent/AddServices.js" />
+        <option value="$PROJECT_DIR$/src/WidgetsComponent/DataController.js" />
+        <option value="$PROJECT_DIR$/src/WidgetsComponent/styles/img/stack.svg" />
+        <option value="$PROJECT_DIR$/src/styles/svg/stack.svg" />
+        <option value="$PROJECT_DIR$/src/WidgetsComponent/WidgetsComponent.js" />
+        <option value="$PROJECT_DIR$/src/WidgetsComponent/StaticWidget.js" />
+        <option value="$PROJECT_DIR$/node_modules/@tap-payments/goweb-main-menu/build/elements/styles/css/style.css" />
+        <option value="$PROJECT_DIR$/src/WidgetsComponent/SortableList.js" />
+        <option value="$PROJECT_DIR$/src/WidgetsComponent/SortableItem.js" />
+        <option value="$PROJECT_DIR$/src/WidgetsComponent/styles/css/style.css" />
+        <option value="$PROJECT_DIR$/src/DataController/DataController.js" />
+        <option value="$PROJECT_DIR$/src/styles/css/style.css" />
+        <option value="$PROJECT_DIR$/src/App.js" />
       </list>
     </option>
   </component>
@@ -216,10 +266,11 @@
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="12" />
     <option name="y" value="23" />
-    <option name="width" value="2048" />
-    <option name="height" value="1055" />
+    <option name="width" value="2036" />
+    <option name="height" value="1022" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -236,7 +287,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -247,48 +297,19 @@
             <path>
               <item name="goWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="goWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="goWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="goWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="@tap-payments" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="goWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="goWeb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="goWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="goWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BodySection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="goWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="goWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DataController" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="goWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="goWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HeaderSection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="goWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="goWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -296,16 +317,17 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.9.1" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/styles/img" />
-      <recent name="$PROJECT_DIR$/src/ModalDialog" />
-      <recent name="$PROJECT_DIR$/node_modules/react-info-md/build/elements" />
-      <recent name="$PROJECT_DIR$/node_modules/react-info-md/build/elements/img" />
+      <recent name="$PROJECT_DIR$/src/WidgetsComponent/styles/img" />
       <recent name="$PROJECT_DIR$/src/styles/svg" />
+      <recent name="$PROJECT_DIR$/src/WidgetsComponent/styles" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/styles/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/node_modules/md-component" />
@@ -356,20 +378,29 @@
       <workItem from="1522067311437" duration="3037000" />
       <workItem from="1522158210704" duration="776000" />
       <workItem from="1522677794313" duration="2633000" />
+      <workItem from="1523342968856" duration="228000" />
+      <workItem from="1524232314269" duration="894000" />
+      <workItem from="1524466434520" duration="30246000" />
+      <workItem from="1524665177615" duration="1128000" />
+      <workItem from="1524726915479" duration="3049000" />
+      <workItem from="1524816591910" duration="6381000" />
+      <workItem from="1525243482012" duration="12701000" />
+      <workItem from="1525353190870" duration="3102000" />
+      <workItem from="1525358365446" duration="8893000" />
+      <workItem from="1525959989712" duration="702000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130316000" />
+    <option name="totallyTimeSpent" value="209833000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2048" height="1055" extended-state="6" />
+    <frame x="12" y="23" width="2036" height="1022" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25585938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19204322" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23029682" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -382,6 +413,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -391,17 +423,17 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23029682" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23029682" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25588235" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25585938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,130 +443,54 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/nche-react-test/node_modules/webpack/bin/webpack.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-327">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/nche-react-test/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-fancy-component/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-fancy-component/build/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-fancy-component/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-496">
-          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/nche-react-test1/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/nche-react-test1/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="73" column="23" lean-forward="true" selection-start-line="73" selection-start-column="23" selection-end-line="73" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/nche-react-test1/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/nche-react-test/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/nche-react-test/build/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="40" column="18" lean-forward="false" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/nche-react-test1/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/nche-react-test1/build/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/nche-react-test/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="711">
-          <caret line="88" column="22" lean-forward="false" selection-start-line="88" selection-start-column="22" selection-end-line="88" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/ask-modal-react/src/MDAbstractClass.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/ask-modal-react/build/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="121" column="73" lean-forward="false" selection-start-line="121" selection-start-column="63" selection-end-line="121" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/ask-modal-react/src/AskModal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-info-modal/build/elements/InfoModal.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/react-info-md/build/elements/img/closeIcon.svg" />
+    <entry file="file://$PROJECT_DIR$/node_modules/react-info-md/build/elements/InfoModal.js" />
+    <entry file="file://$PROJECT_DIR$/src/BodySection/Settings.js" />
+    <entry file="file://$PROJECT_DIR$/src/ModalDialog/TabItem.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/react-info-md/build/elements/style.css" />
+    <entry file="file://$PROJECT_DIR$/src/ModalDialog/style.css" />
+    <entry file="file://$PROJECT_DIR$/src/ModalDialog/TabSubItem.js" />
+    <entry file="file://$PROJECT_DIR$/src/ModalDialog/AskModal.js" />
+    <entry file="file://$PROJECT_DIR$/src/ModalDialog/Tab.js" />
+    <entry file="file://$PROJECT_DIR$/src/BodySection/MainMenu.js" />
+    <entry file="file://$PROJECT_DIR$/src/HeaderSection/MenuHeader.js" />
+    <entry file="file://$PROJECT_DIR$/src/BodySection/SetsItem.js" />
+    <entry file="file://$PROJECT_DIR$/src/MenuComponent.js" />
+    <entry file="file://$PROJECT_DIR$/src/BodySection/MainMenuItem.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/@tap-payments/goweb-main-menu/build/elements/HeaderSection/MenuHeader.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/@tap-payments/goweb-main-menu/build/elements/styles/css/rtl_styles.css" />
     <entry file="file://$PROJECT_DIR$/src/styles/css/media_queries.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/svg/draftIcon.svg">
+    <entry file="file://$PROJECT_DIR$/src/styles/css/rtl_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestComp.js" />
+    <entry file="file://$PROJECT_DIR$/src/GoWebContext.js" />
+    <entry file="file://$PROJECT_DIR$/src/TestComp2.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/@tap-payments/react-ask-md/build/elements/TabSubItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@tap-payments/react-ask-md/build/elements/AskModal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -548,208 +504,182 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/svg/billIcon.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="57" lean-forward="false" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/svg/payIcon.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/styles/svg/stateIcon.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="195">
+          <caret line="13" column="87" lean-forward="true" selection-start-line="13" selection-start-column="87" selection-end-line="13" selection-end-column="87" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BodySection/SubMenuItem.js">
+    <entry file="file://$PROJECT_DIR$/src/styles/svg/repeateIcon.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="195">
+          <caret line="13" column="200" lean-forward="true" selection-start-line="13" selection-start-column="200" selection-end-line="13" selection-end-column="200" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-modal/webpack.dist.config.js" />
-    <entry file="file://$PROJECT_DIR$/node_modules/react-modal/webpack.test.config.js" />
-    <entry file="file://$PROJECT_DIR$/src/BodySection/MenuBody.js">
+    <entry file="file://$PROJECT_DIR$/src/styles/svg/schedIcon.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="75" lean-forward="true" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/svg/logoutIcon.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BodySection/SubItemGroup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/svg/arrow.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/nche-component-lib/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="62" column="34" lean-forward="true" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/nche-component-lib/build/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/nche-component-lib/build/styles/colors.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/nche-component-lib/build/elements/Button.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-info-modal/build/elements/InfoModal.js">
+    <entry file="file://$PROJECT_DIR$/src/WidgetsComponent/styles/fonts/Circe/Circe.ttf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/css/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WidgetsComponent/styles/img/cross.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="110" lean-forward="false" selection-start-line="1" selection-start-column="110" selection-end-line="1" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/css/generalStylesFile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@tap-payments/goweb-main-menu/build/elements/styles/css/fonts.css" />
+    <entry file="file://$PROJECT_DIR$/src/WidgetsComponent/AddServices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="11" lean-forward="false" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WidgetsComponent/styles/img/stack.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="106" lean-forward="false" selection-start-line="1" selection-start-column="106" selection-end-line="1" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/svg/stack.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="107" lean-forward="false" selection-start-line="1" selection-start-column="107" selection-end-line="1" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WidgetsComponent/WidgetsComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="51" column="57" lean-forward="false" selection-start-line="51" selection-start-column="57" selection-end-line="51" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@tap-payments/goweb-main-menu/build/elements/styles/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/src/WidgetsComponent/StaticWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="63" column="44" lean-forward="true" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WidgetsComponent/SortableItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WidgetsComponent/DataController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WidgetsComponent/styles/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WidgetsComponent/SortableList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="38" column="28" lean-forward="false" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="57" lean-forward="false" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+        <state relative-caret-position="15">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-info-md/build/elements/img/closeIcon.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-info-md/build/elements/InfoModal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BodySection/Settings.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ModalDialog/TabItem.js" />
-    <entry file="file://$PROJECT_DIR$/node_modules/react-info-md/build/elements/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ModalDialog/style.css" />
-    <entry file="file://$PROJECT_DIR$/src/ModalDialog/TabSubItem.js" />
-    <entry file="file://$PROJECT_DIR$/src/ModalDialog/AskModal.js" />
-    <entry file="file://$PROJECT_DIR$/src/ModalDialog/Tab.js" />
-    <entry file="file://$PROJECT_DIR$/src/styles/css/rtl_styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6150">
-          <caret line="410" column="1" lean-forward="false" selection-start-line="410" selection-start-column="1" selection-end-line="410" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataController/DataController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#56#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BodySection/MainMenu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HeaderSection/MenuHeader.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="52" lean-forward="false" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BodySection/SetsItem.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        <state relative-caret-position="255">
+          <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MenuComponent.js">
+    <entry file="file://$PROJECT_DIR$/src/DataController/DataController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="24">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BodySection/MainMenuItem.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
